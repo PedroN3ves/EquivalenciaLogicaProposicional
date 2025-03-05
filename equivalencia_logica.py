@@ -22,4 +22,4 @@ if __name__ == "__main__":
         else:
             print("As expressoes NAO sao logicamente equivalentes.")
     except Exception as e:
-        print(f"Erro ao processar as expressões: {e}")
+        print(f"Erro ao processar as expressoes: {e}")
